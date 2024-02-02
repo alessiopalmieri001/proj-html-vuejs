@@ -361,7 +361,7 @@
         box-shadow: 0px 30px 20px -20px rgba(0,0,0,0.1);
         
             nav{
-                padding:25px 0;
+                padding:px 0;
                 
                 div{
                     
@@ -384,7 +384,7 @@
     .linkDropdown{
         display: flex;
         div{
-            padding: 0 20px;
+            padding: 0px 20px;
             
         }
     }
@@ -448,7 +448,7 @@
         
     }
     .dropbtn {
-            padding: 0 20px;
+            padding: 20px 20px;
             
     }
     .dropdown-one {
@@ -467,7 +467,7 @@
         display: none;
         position: absolute;
         left: 30px;
-        top:20px;
+        top:60px;
         background-color: #f9f9f9;
         width: 1407px;
         box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);

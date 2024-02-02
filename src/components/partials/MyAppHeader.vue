@@ -350,7 +350,7 @@
         box-shadow: 0px 30px 20px -20px rgba(0,0,0,0.1);
         .container{
             nav{
-                padding:25px 0;
+                padding:0px 0;
                 div{
                     
                     img{
@@ -431,7 +431,7 @@
         
     }
     .dropbtn {
-            padding: 0 20px;
+            padding: 20px 20px;
             
     }
     .dropdown-one {
